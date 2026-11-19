@@ -1,3 +1,5 @@
+![Portfolio Pipeline](https://github.com/ZiyeXu-0719/portfolio-ci-cd/actions/workflows/pipeline.yml/badge.svg)
+
 # Portfolio Template
 
 A starter repo for building and validating a personal portfolio webpage.
